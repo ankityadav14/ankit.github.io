@@ -1,37 +1,147 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Tree.ai</title>
+		
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
 
-You can use the [editor on GitHub](https://github.com/ankityadav14/ankit.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+	<body class="is-preload">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-### Markdown
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<span class="icon fa-gem"></span>
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>Ankit Yadav</h1>
+								<p>Web Deveoper  | <a href="#">  Freelancer</a> <br />
+								 <a href="#"> Programmer</a> </p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#intro">Intro</a></li>
+								<li><a href="#work">Work</a></li>
+								<li><a href="#about">About</a></li>
+								<li><a href="#contact">Contact</a></li>
+								<!--<li><a href="#elements">Elements</a></li>-->
+							</ul>
+						</nav>
+					</header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+				<!-- Main -->
+					<div id="main">
 
-```markdown
-Syntax highlighted code block
+						<!-- Intro -->
+							<article id="intro">
+								<h2 class="major">Intro</h2>
+								<span class="image main"><img src="#" alt="" /></span>
+								<p>
+									Hello!! I'm Ankit Yadav. This is my Portfolio website.... 
+								</p> <br/>
+								<p>
+									This is just made to.......
+								</p>
+							</article>
 
-# Header 1
-## Header 2
-### Header 3
+						<!-- Work -->
+							<article id="work">
+								<h2 class="major">Work</h2>
+								<span class="image main"><img src="#" alt="" /></span>
+								<p>
+									A Freelancer........ 
+								</p>
+								<p>
+									A Professional Web Developer.....
+								</p>
+							</article>
 
-- Bulleted
-- List
+						<!-- About -->
+							<article id="about">
+								<h2 class="major">About</h2>
+								<span class="image main"><img src="#" alt="" /></span>
+								<p>Nothing About me...</p>
+							</article>
 
-1. Numbered
-2. List
+						<!-- Contact -->
+							<article id="contact">
+								<h2 class="major">Contact</h2>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="4"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Reset" /></li>
+									</ul>
+								</form>
+								<ul class="icons">
+										<li><a href="https://twitter.com/Ankitkr0fficial?t=pV7yScEIIcnozwieeuYCPg&s=09" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="https://www.facebook.com/people/Ankit-Yadav/100008014989890/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="https://instagram.com/ankityadav14_?igshid=YmMyMTA2M2Y=" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="https://github.com/ankityadav14" class="icon brands fa-github"><span class="label">Github</span></a></li>
 
-**Bold** and _Italic_ and `Code` text
+										<li><a href="ay2000ankit@gmail.com" class="icon brands fa-whatsapp"><span class="label">Whatsapp</span></a></li>
 
-[Link](url) and ![Image](src)
-```
+										<li><a href="https://www.linkedin.com/in/ankit-yadav-75721a215" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									</ul>
+							</article>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+						
 
-### Jekyll Themes
+					</div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ankityadav14/ankit.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+				<!-- Footer -->
+					<footer id="footer"><h4>Icons</h4>
+									<ul class="icons">
+										<li><a href="https://twitter.com/Ankitkr0fficial?t=pV7yScEIIcnozwieeuYCPg&s=09" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="https://www.facebook.com/people/Ankit-Yadav/100008014989890/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="https://instagram.com/ankityadav14_?igshid=YmMyMTA2M2Y=" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="https://github.com/ankityadav14" class="icon brands fa-github"><span class="label">Github</span></a></li>
 
-### Support or Contact
+										<li><a href="9754147440" class="icon brands fa-whatsapp"><span class="label">Whatsapp</span></a></li>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+										<li><a href="https://www.linkedin.com/in/ankit-yadav-75721a215" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									</ul>
+		
+						<p class="copyright">&copy; Developed By<a href="#"> Ankit Yadav</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
