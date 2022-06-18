@@ -48,7 +48,7 @@
 						<!-- Intro -->
 							<article id="intro">
 								<h2 class="major">Intro</h2>
-								<span class="image main"><img src="#" alt="" /></span>
+								<span class="image main"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F1229861%2Fpexels-photo-1229861.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D1%26w%3D500&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fwebsite%2520background%2F&tbnid=wcXsZgBNPJAQfM&vet=12ahUKEwismsaKgbf4AhW1_TgGHeagAycQMygDegUIARDJAQ..i&docid=-_4Z8mgLA2CIZM&w=500&h=333&q=background%20image%20for%20website%20jpg&ved=2ahUKEwismsaKgbf4AhW1_TgGHeagAycQMygDegUIARDJAQ.jpg" alt="" /></span>
 								<p>
 									Hello!! I'm Ankit Yadav. This is my Portfolio website.... 
 								</p> <br/>
